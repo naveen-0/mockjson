@@ -1,49 +1,28 @@
-{
-  "users": [
-    {
-      "id": 1,
-      "firstname": "Naveen",
-      "lastname": "kumar",
-      "age": 26,
-      "hobbies": [
-        "reading",
-        "writing"
-      ],
-      "friends": [
-        {
-          "firstname": "Ajay",
-          "lastname": "kumar",
-          "age": 26
-        },
-        {
-          "firstname": "Jhoney",
-          "lastname": "kumar",
-          "age": 26
-        }
-      ]
-    },
-    {
-      "firstname": "Anuj",
-      "lastname": "kumar",
-      "age": 26
-    }
-  ],
-  "subject": [
-    {
-      "name": "Asif",
-      "id": 1
-    },
-    {
-      "name": "Rihan",
-      "id": 2
-    },
-    {
-      "id": 3,
-      "name": "Arun"
-    },
-    {
-      "name": "Akshay",
-      "id": 5
-    }
-  ]
-}
+[
+  {
+    "firstname": "Naveen",
+    "lastname": "kumar",
+    "age": 26,
+    "hobbies": [
+      "reading",
+      "writing"
+    ],
+    "friends": [
+      {
+        "firstname": "Ajay",
+        "lastname": "kumar",
+        "age": 26
+      },
+      {
+        "firstname": "Jhoney",
+        "lastname": "kumar",
+        "age": 26
+      }
+    ]
+  },
+  {
+    "firstname": "Anuj",
+    "lastname": "kumar",
+    "age": 26
+  }
+]
